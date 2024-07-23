@@ -2,6 +2,12 @@
 
 This repository contains my custom configuration for the [Zed Editor](https://zed.dev), designed to enhance productivity and streamline the development process. Below is a detailed overview of the configuration settings:
 
+*NOTE:* The XY-Zed theme, and all associated packages and fonts *MUST* be installed for this to work.
+- [AnonymicePro Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/AnonymousPro)
+- [XY-Zed Theme](https://github.com/zarifpour/xy-zed)
+- [Ligalex Mono](https://github.com/ToxicFrog/Ligaturizer)
+- [BlexMono Nerd Font](https://www.nerdfonts.com/font-downloads)
+
 ## General Settings
 - **Default Open AI Model:** gpt-4o
 - **Base Keymap:** VSCode
