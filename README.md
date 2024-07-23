@@ -8,6 +8,8 @@ This repository contains my custom configuration for the [Zed Editor](https://ze
 - [Ligalex Mono](https://github.com/ToxicFrog/Ligaturizer)
 - [BlexMono Nerd Font](https://www.nerdfonts.com/font-downloads)
 
+---
+
 ## General Settings
 - **Default Open AI Model:** gpt-4o
 - **Base Keymap:** VSCode
