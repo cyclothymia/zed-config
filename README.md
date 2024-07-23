@@ -86,3 +86,7 @@ This repository contains my custom configuration for the [Zed Editor](https://ze
   - **Inlay Property Declaration Type Hints:** Yes
   - **Inlay Function-like Return Type Hints:** Yes
   - **Inlay Enum Member Value Hints:** Yes
+
+---
+
+# ⭐ Do you like the config? make sure to star the repo! ⭐
